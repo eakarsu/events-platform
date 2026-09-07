@@ -1,0 +1,1819 @@
+{
+  "mapped": [
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "ticketing-agreement-library",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "ticketing-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "event-seat-inventory",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "event-seat-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "primary-sale-ingestion",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "primary-sale-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "resale-transaction-ingestion",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "resale-transaction-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "face-value-reconciliation",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "face-value-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "service-fee-calculation",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "service-fee-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "resale-participation",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "resale-participation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "refund-cancellation-control",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "refund-cancellation-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "chargeback-allocation",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "chargeback-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "tax-settlement",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "tax-settlement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "venue-promoter-split",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "venue-promoter-split",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "ticketing-statement-audit",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "ticketing-statement-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "dispute-workflow",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "cash-reconciliation",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "event-channel-analytics",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/app.config.mjs",
+      "canonical": "event-channel-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/events",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/venues",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "venues",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/guests",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "guests",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/catering",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "catering",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/vendors",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "vendors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/budgets",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "budgets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/tasks",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "tasks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/invitations",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "invitations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/seating",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "seating",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/entertainment",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "entertainment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/ai/event-suggestions",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "event-suggestions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/ai/menu-generator",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "menu-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/ai/budget-optimizer",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "budget-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/ai/schedule-optimizer",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "schedule-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEventPlanner",
+      "sourceKey": "/ai/vendor-matcher",
+      "source": "/Volumes/external/projects/AIEventPlanner/frontend/src/pages/Dashboard.js",
+      "canonical": "vendor-matcher",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/collections",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "collections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/objects",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "objects",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/loans",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "loans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/exhibitions",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "exhibitions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/galleries",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "galleries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/conservation",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "conservation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/environment",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "environment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/storage",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "storage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/insurance",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "insurance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/ticketing",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "ticketing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/memberships",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "memberships",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/donors",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "donors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/giftshop",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "giftshop",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/events",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/education",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "education",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/volunteers",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "volunteers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/tours",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "tours",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/visitors",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "visitors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/security",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "security",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "environment-monitor",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager",
+      "canonical": "environment-monitor",
+      "kind": "route"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "donor-insights",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager",
+      "canonical": "donor-insights",
+      "kind": "route"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "ai-advisor",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager",
+      "canonical": "advisor",
+      "kind": "route"
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "sourceKey": "loan-condition-risk",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager",
+      "canonical": "loan-condition-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "box-office",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "box-office",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "donor-stewardship",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "donor-stewardship",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "script-analysis",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "script-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "ticket-pricing",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "ticket-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "cf-season-planning-optimizer-recommending-show-mix",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "season-planning-optimizer-recommending-show-mix",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "cf-performance-outcome-prediction-for-ticket-sales-and-review",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "performance-outcome-prediction-for-ticket-sales-and-review",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "cf-fundraising-campaign-planning-with-donor-segment-targeting",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "fundraising-campaign-planning-with-donor-segment-targeting",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "cf-script-recommendation-engine-based-on-available-cast-and",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "script-recommendation-engine-based-on-available-cast-and",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "cf-community-partnership-matcher-identifying-sponsors-by-affinity",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "community-partnership-matcher-identifying-sponsors-by-affinity",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "cf-volunteer-management-module-with-shift-scheduling",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "volunteer-management-module-with-shift-scheduling",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "gap-no-ai-driven-season-planning",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "ai-driven-season-planning",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "gap-no-performance-outcome-prediction",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "performance-outcome-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "gap-no-conversational-marketing-copilot",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "conversational-marketing-copilot",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "gap-no-integration-with-ticketing-platforms-eventbrite-brown-paper",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "integration-with-ticketing-platforms-eventbrite-brown-paper",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "gap-no-email-marketing-automation",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "email-marketing-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "gap-no-grant-database-matching",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "grant-database-matching",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "gap-no-volunteer-management",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "volunteer-management",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "gap-no-patron-subscriber-self-service-portal",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "patron-subscriber-self-service-portal",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "gap-no-webhooks-or-notifications",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "webhooks-or-notifications",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "gap-no-payment-processor-integration",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "payment-processor-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "sourceKey": "gap-no-crm-style-segmentation-beyond-donor-records",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "canonical": "crm-style-segmentation-beyond-donor-records",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "roi-predictor",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer/frontend/src/pages/AICenter.jsx",
+      "canonical": "roi-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "lead-scorer",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer/frontend/src/pages/AICenter.jsx",
+      "canonical": "lead-scorer",
+      "kind": "definition"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "budget-optimizer",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer/frontend/src/pages/AICenter.jsx",
+      "canonical": "budget-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "competitor-analyzer",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer/frontend/src/pages/AICenter.jsx",
+      "canonical": "competitor-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "followup-generator",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer/frontend/src/pages/AICenter.jsx",
+      "canonical": "followup-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "event-recommender",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer/frontend/src/pages/AICenter.jsx",
+      "canonical": "event-recommender",
+      "kind": "definition"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "booth-advisor",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer/frontend/src/pages/AICenter.jsx",
+      "canonical": "booth-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "marketing-copy",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer/frontend/src/pages/AICenter.jsx",
+      "canonical": "marketing-copy",
+      "kind": "definition"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "staff-optimizer",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer/frontend/src/pages/AICenter.jsx",
+      "canonical": "staff-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "performance-reporter",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer/frontend/src/pages/AICenter.jsx",
+      "canonical": "performance-reporter",
+      "kind": "definition"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "sponsorship-advisor",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer/frontend/src/pages/AICenter.jsx",
+      "canonical": "sponsorship-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "networking-strategy",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer/frontend/src/pages/AICenter.jsx",
+      "canonical": "networking-strategy",
+      "kind": "definition"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "post-event-survey-automation",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer/frontend/src/pages/AICenter.jsx",
+      "canonical": "post-event-survey-automation",
+      "kind": "definition"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "workflow/lead-capture",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "workflow-lead-capture",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "workflow/crm-sync",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "workflow-crm-sync",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "workflow/cadences",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "workflow-cadences",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "workflow/heatmap",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "workflow-heatmap",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "workflow/briefing",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "workflow-briefing",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "events",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "calendar",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "booths",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "booths",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "leads",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "leads",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "expenses",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "expenses",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "staff",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "staff",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "sponsors",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "sponsors",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "materials",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "materials",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "competitors",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "competitors",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "followups",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "followups",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "budgets",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "budgets",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/roi-predictor",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "roi-predictor",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/lead-scorer",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "lead-scorer",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/budget-optimizer",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "budget-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/competitor-analyzer",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "competitor-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/followup-generator",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "followup-generator",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/event-recommender",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "event-recommender",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/booth-advisor",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "booth-advisor",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/marketing-copy",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "marketing-copy",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/staff-optimizer",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "staff-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/performance-reporter",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "performance-reporter",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/sponsorship-advisor",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "sponsorship-advisor",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/networking-strategy",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "networking-strategy",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/post-event-sentiment",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "post-event-sentiment",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/abm-targeting",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "abm-targeting",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/competitor-winloss",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "competitor-winloss",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "ai/portfolio-optimizer",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "portfolio-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "cf-attendee-sentiment-tracking-via-post-event-surveys-to-predict",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "attendee-sentiment-tracking-via-post-event-surveys-to-predict",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "cf-account-based-marketing-targeting-personalizing-outreach-to-high-value-attendees",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "account-based-marketing-targeting-personalizing-outreach-to-high-value-attendees",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "cf-real-time-booth-traffic-heatmapping-for-on-the-spot-optimization",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "real-time-booth-traffic-heatmapping-for-on-the-spot-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "cf-competitor-win-loss-analysis-tied-to-shared-events",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "competitor-win-loss-analysis-tied-to-shared-events",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "cf-multi-event-portfolio-optimization-across-calendar-year",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "multi-event-portfolio-optimization-across-calendar-year",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "cf-badge-scan-integration-for-live-lead-ingestion",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "badge-scan-integration-for-live-lead-ingestion",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "gap-no-ai-post-event-sentiment-analysis-of-attendees",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "ai-post-event-sentiment-analysis-of-attendees",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "gap-no-ai-lead-quality-clustering",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "ai-lead-quality-clustering",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "gap-no-ai-booth-traffic-anomaly-detection",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "ai-booth-traffic-anomaly-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "gap-limited-crm-integration-single-integration-module-not-salesforce",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "limited-crm-integration-single-integration-module-not-salesforce",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "gap-no-email-campaign-platform-integration",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "email-campaign-platform-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "gap-no-attendee-badge-integration-for-real-time-tracking",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "attendee-badge-integration-for-real-time-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "gap-no-post-event-survey-automation",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "post-event-survey-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "gap-no-webhooks",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "sourceKey": "gap-no-notifications-subsystem",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "canonical": "notifications-subsystem",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/events",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/venues",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "venues",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/performers",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "performers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/performer-bookings",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "performer-bookings",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/ticket-pricing",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "ticket-pricing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/seat-assignments",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "seat-assignments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/seat-recommend",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "seat-recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/tech-riders",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "tech-riders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/settlements",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "settlements",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/ai/dynamic-pricing",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "dynamic-pricing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/ai/revenue-forecast",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "revenue-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/ai/artist-match",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "artist-match",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/ai/marketing-campaign",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "marketing-campaign",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/ai/scheduling-optimizer",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "scheduling-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/integrations/eventbrite",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "integrations-eventbrite",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/integrations/stripe-payment",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "canonical": "integrations-stripe-payment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/events",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/pages/Dashboard.js",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/ticket-pricing",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/pages/Dashboard.js",
+      "canonical": "ticket-pricing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/seat-assignments",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/pages/Dashboard.js",
+      "canonical": "seat-assignments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/performers",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/pages/Dashboard.js",
+      "canonical": "performers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/performer-bookings",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/pages/Dashboard.js",
+      "canonical": "performer-bookings",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/tech-riders",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/pages/Dashboard.js",
+      "canonical": "tech-riders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/settlements",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/pages/Dashboard.js",
+      "canonical": "settlements",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/venues",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/pages/Dashboard.js",
+      "canonical": "venues",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "/seat-recommend",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/pages/Dashboard.js",
+      "canonical": "seat-recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "cf-dynamic-pricing-optimizer-adjusting-by-demand-time-to-event-comparables",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "dynamic-pricing-optimizer-adjusting-by-demand-time-to-event-comparables",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "cf-artist-audience-matcher-recommending-artists-by-target-audience",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "artist-audience-matcher-recommending-artists-by-target-audience",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "cf-revenue-prediction-forecasting-event-profitability",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "revenue-prediction-forecasting-event-profitability",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "cf-scheduling-optimizer-minimizing-cannibalization-across-events",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "scheduling-optimizer-minimizing-cannibalization-across-events",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "cf-marketing-campaign-recommender-suggesting-channels-budgets",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "marketing-campaign-recommender-suggesting-channels-budgets",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "cf-patron-crm-with-loyalty-season-ticket-subscription-support",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "patron-crm-with-loyalty-season-ticket-subscription-support",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "gap-no-ai-dynamic-pricing-based-on-demand",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "ai-dynamic-pricing-based-on-demand",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "gap-no-ai-artist-audience-matching",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "ai-artist-audience-matching",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "gap-no-ai-demand-forecasting",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "ai-demand-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "gap-no-integrations-with-ticketing-platforms-eventbrite-ticketmaster",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "integrations-with-ticketing-platforms-eventbrite-ticketmaster",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "gap-no-payment-processing-integration",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "payment-processing-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "gap-no-marketing-automation",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "marketing-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "gap-no-customer-self-service-portal",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "customer-self-service-portal",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "gap-no-webhooks",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "gap-no-notifications-subsystem",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "notifications-subsystem",
+      "kind": "route"
+    },
+    {
+      "project": "AIVenueManager",
+      "sourceKey": "gap-no-multi-venue-franchise-chain-management",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "canonical": "multi-venue-franchise-chain-management",
+      "kind": "route"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/ai/vendor-match",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/AIAssistant.js",
+      "canonical": "vendor-match",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/ai/budget-optimize",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/AIAssistant.js",
+      "canonical": "budget-optimize",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/ai/timeline-suggest",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/AIAssistant.js",
+      "canonical": "timeline-suggest",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/ai/seating-suggest",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/AIAssistant.js",
+      "canonical": "seating-suggest",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/ai/menu-suggest",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/AIAssistant.js",
+      "canonical": "menu-suggest",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/ai/invitation-wording",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/AIAssistant.js",
+      "canonical": "invitation-wording",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/ai/floral-suggest",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/AIAssistant.js",
+      "canonical": "floral-suggest",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/ai/music-suggest",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/AIAssistant.js",
+      "canonical": "music-suggest",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/ai/general-advice",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/AIAssistant.js",
+      "canonical": "general-advice",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/ai/budget-risk",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/AIAssistant.js",
+      "canonical": "budget-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/ai/vendor-performance-prediction",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/AIAssistant.js",
+      "canonical": "vendor-performance-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/vendors",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "vendor-match",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/budget",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "budget",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/timeline",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "timeline",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/seating",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "seating",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/guests",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "guests",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/venues",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "venues",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/menu",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "menu",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/invitations",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "invitations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/registry",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "registry",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/photography",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "photography",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/music",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "music",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/florals",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "florals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/transportation",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "transportation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "/accommodation",
+      "source": "/Volumes/external/projects/AIWeddingPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "accommodation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "guest-preferences",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "canonical": "guest-preferences",
+      "kind": "route"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "budget-overrun",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "canonical": "budget-overrun",
+      "kind": "route"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "vendor-performance",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "canonical": "vendor-performance-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "seating-optimize",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "canonical": "seating-optimize",
+      "kind": "route"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "destination-itinerary",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "canonical": "destination-itinerary",
+      "kind": "route"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "event-day-coordination",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "canonical": "event-day-coordination",
+      "kind": "route"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "thank-you-cards",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "canonical": "thank-you-cards",
+      "kind": "route"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "counseling-referrals",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "canonical": "counseling-referrals",
+      "kind": "route"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "ai-assistant",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "canonical": "assistant",
+      "kind": "route"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "notes",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "canonical": "notes",
+      "kind": "route"
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "sourceKey": "budget-summary",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "canonical": "budget-summary",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-sports-ticketing-settlement-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEventPlanner",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIEventPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEventPlanner",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIEventPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEventPlanner",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIEventPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEventPlanner",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIEventPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEventPlanner",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIMuseumCulturalInstitutionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "key": "/:feature",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMuseumCulturalInstitutionManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "key": "/features/:featureName",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "key": "/ai/:featureName",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AITheaterPerformingArtsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITheaterPerformingArtsManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "key": "ai",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "key": "/ai/:feature",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "key": "login",
+      "source": "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITradeShowConferenceROIOptimizer",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVenueManager",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIVenueManager/client/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVenueManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVenueManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVenueManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIVenueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVenueManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVenueManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIWeddingPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWeddingPlanner",
+      "key": "/:feature",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "ticketing-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "event-seat-inventory",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "primary-sale-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "resale-transaction-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "face-value-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "service-fee-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "resale-participation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-cancellation-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "chargeback-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-settlement",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "venue-promoter-split",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ticketing-statement-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "event-channel-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    }
+  ]
+}

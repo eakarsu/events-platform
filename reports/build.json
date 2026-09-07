@@ -1,0 +1,9 @@
+{
+  "app": "events-platform",
+  "features": 186,
+  "sourceApps": 7,
+  "calculatorEngines": 0,
+  "registryHash": "3c13008b9aecfb1bc627dcb23d44b7302445a380436701a7ba8239bbe1fb1e82",
+  "builtAt": "2026-09-07T22:06:02.715Z",
+  "status": "built"
+}

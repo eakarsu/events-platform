@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ai-sports-ticketing-settlement-reconciliation",
+    "name": "Sports ticketing settlement reconciliation",
+    "sourceProject": "ai-sports-ticketing-settlement-reconciliation",
+    "services": []
+  },
+  {
+    "id": "AIEventPlanner",
+    "name": "Event planner",
+    "sourceProject": "AIEventPlanner",
+    "services": []
+  },
+  {
+    "id": "AIMuseumCulturalInstitutionManager",
+    "name": "Museum cultural institution manager",
+    "sourceProject": "AIMuseumCulturalInstitutionManager",
+    "services": []
+  },
+  {
+    "id": "AITheaterPerformingArtsManager",
+    "name": "Theater performing arts manager",
+    "sourceProject": "AITheaterPerformingArtsManager",
+    "services": []
+  },
+  {
+    "id": "AITradeShowConferenceROIOptimizer",
+    "name": "Trade show conference roioptimizer",
+    "sourceProject": "AITradeShowConferenceROIOptimizer",
+    "services": []
+  },
+  {
+    "id": "AIVenueManager",
+    "name": "Venue manager",
+    "sourceProject": "AIVenueManager",
+    "services": []
+  },
+  {
+    "id": "AIWeddingPlanner",
+    "name": "Wedding planner",
+    "sourceProject": "AIWeddingPlanner",
+    "services": []
+  }
+]

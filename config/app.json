@@ -1,0 +1,29 @@
+{
+  "id": "events-platform",
+  "title": "Events, venues & cultural institutions",
+  "buyer": "Venue, event and cultural operators",
+  "sourceCount": 7,
+  "sources": [
+    "ai-sports-ticketing-settlement-reconciliation",
+    "AIEventPlanner",
+    "AIMuseumCulturalInstitutionManager",
+    "AITheaterPerformingArtsManager",
+    "AITradeShowConferenceROIOptimizer",
+    "AIVenueManager",
+    "AIWeddingPlanner"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46046,
+  "productName": "Events, venues Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-sports-ticketing-settlement-reconciliation",
+    "/Volumes/external/projects/AIEventPlanner",
+    "/Volumes/external/projects/AIMuseumCulturalInstitutionManager",
+    "/Volumes/external/projects/AITheaterPerformingArtsManager",
+    "/Volumes/external/projects/AITradeShowConferenceROIOptimizer",
+    "/Volumes/external/projects/AIVenueManager",
+    "/Volumes/external/projects/AIWeddingPlanner"
+  ]
+}

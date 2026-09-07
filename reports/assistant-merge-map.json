@@ -1,0 +1,574 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "followup-generator"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "followup-generator",
+        "title": "AI Follow-up Email Writer",
+        "originalPath": "/features/followup-generator"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "ticketing-agreement-library",
+      "event-seat-inventory",
+      "primary-sale-ingestion",
+      "resale-transaction-ingestion",
+      "resale-participation",
+      "venue-promoter-split",
+      "dispute-workflow",
+      "event-channel-analytics",
+      "event-suggestions",
+      "menu-generator",
+      "vendor-matcher",
+      "visitors",
+      "maintenance",
+      "advisor",
+      "ai-driven-season-planning",
+      "competitor-analyzer",
+      "performance-reporter",
+      "sponsorship-advisor",
+      "networking-strategy",
+      "post-event-survey-automation",
+      "abm-targeting",
+      "competitor-winloss",
+      "multi-venue-franchise-chain-management",
+      "timeline-suggest",
+      "seating-suggest",
+      "invitation-wording",
+      "general-advice",
+      "vendor-performance-prediction",
+      "assistant"
+    ],
+    "ai": true,
+    "representativeId": "ticketing-agreement-library",
+    "description": "One assistant for 29 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "ticketing-agreement-library",
+        "title": "Ticketing agreement library",
+        "originalPath": "/features/ticketing-agreement-library"
+      },
+      {
+        "id": "event-seat-inventory",
+        "title": "Event seat inventory",
+        "originalPath": "/features/event-seat-inventory"
+      },
+      {
+        "id": "primary-sale-ingestion",
+        "title": "Primary sale ingestion",
+        "originalPath": "/features/primary-sale-ingestion"
+      },
+      {
+        "id": "resale-transaction-ingestion",
+        "title": "Resale transaction ingestion",
+        "originalPath": "/features/resale-transaction-ingestion"
+      },
+      {
+        "id": "resale-participation",
+        "title": "Resale participation",
+        "originalPath": "/features/resale-participation"
+      },
+      {
+        "id": "venue-promoter-split",
+        "title": "Venue promoter split",
+        "originalPath": "/features/venue-promoter-split"
+      },
+      {
+        "id": "dispute-workflow",
+        "title": "Dispute workflow",
+        "originalPath": "/features/dispute-workflow"
+      },
+      {
+        "id": "event-channel-analytics",
+        "title": "Event channel analytics",
+        "originalPath": "/features/event-channel-analytics"
+      },
+      {
+        "id": "event-suggestions",
+        "title": "AI Event Suggestions",
+        "originalPath": "/features/event-suggestions"
+      },
+      {
+        "id": "menu-generator",
+        "title": "AI Menu Generator",
+        "originalPath": "/features/menu-generator"
+      },
+      {
+        "id": "vendor-matcher",
+        "title": "AI Vendor Matcher",
+        "originalPath": "/features/vendor-matcher"
+      },
+      {
+        "id": "visitors",
+        "title": "Visitor Analytics",
+        "originalPath": "/features/visitors"
+      },
+      {
+        "id": "maintenance",
+        "title": "Maintenance",
+        "originalPath": "/features/maintenance"
+      },
+      {
+        "id": "advisor",
+        "title": "Advisor",
+        "originalPath": "/features/advisor"
+      },
+      {
+        "id": "ai-driven-season-planning",
+        "title": "ai driven season planning",
+        "originalPath": "/features/ai-driven-season-planning"
+      },
+      {
+        "id": "competitor-analyzer",
+        "title": "AI Competitor Intelligence",
+        "originalPath": "/features/competitor-analyzer"
+      },
+      {
+        "id": "performance-reporter",
+        "title": "AI Performance Reporter",
+        "originalPath": "/features/performance-reporter"
+      },
+      {
+        "id": "sponsorship-advisor",
+        "title": "AI Sponsorship Advisor",
+        "originalPath": "/features/sponsorship-advisor"
+      },
+      {
+        "id": "networking-strategy",
+        "title": "AI Networking Strategy",
+        "originalPath": "/features/networking-strategy"
+      },
+      {
+        "id": "post-event-survey-automation",
+        "title": "AI Post-Event Survey Automation",
+        "originalPath": "/features/post-event-survey-automation"
+      },
+      {
+        "id": "abm-targeting",
+        "title": "Abm targeting",
+        "originalPath": "/features/abm-targeting"
+      },
+      {
+        "id": "competitor-winloss",
+        "title": "Competitor winloss",
+        "originalPath": "/features/competitor-winloss"
+      },
+      {
+        "id": "multi-venue-franchise-chain-management",
+        "title": "multi venue franchise chain management",
+        "originalPath": "/features/multi-venue-franchise-chain-management"
+      },
+      {
+        "id": "timeline-suggest",
+        "title": "Timeline Planner",
+        "originalPath": "/features/timeline-suggest"
+      },
+      {
+        "id": "seating-suggest",
+        "title": "Seating Planner",
+        "originalPath": "/features/seating-suggest"
+      },
+      {
+        "id": "invitation-wording",
+        "title": "Invitation Writer",
+        "originalPath": "/features/invitation-wording"
+      },
+      {
+        "id": "general-advice",
+        "title": "General Advice",
+        "originalPath": "/features/general-advice"
+      },
+      {
+        "id": "vendor-performance-prediction",
+        "title": "Vendor Performance",
+        "originalPath": "/features/vendor-performance-prediction"
+      },
+      {
+        "id": "assistant",
+        "title": "Assistant",
+        "originalPath": "/features/assistant"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "face-value-reconciliation",
+      "service-fee-calculation",
+      "refund-cancellation-control",
+      "chargeback-allocation",
+      "tax-settlement",
+      "cash-reconciliation",
+      "budget-optimizer",
+      "revenue-forecast",
+      "dynamic-pricing-optimizer-adjusting-by-demand-time-to-event-comparables",
+      "revenue-prediction-forecasting-event-profitability",
+      "marketing-campaign-recommender-suggesting-channels-budgets",
+      "ai-dynamic-pricing-based-on-demand",
+      "budget-optimize",
+      "budget-risk"
+    ],
+    "ai": true,
+    "representativeId": "face-value-reconciliation",
+    "description": "One assistant for 14 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "face-value-reconciliation",
+        "title": "Face value reconciliation",
+        "originalPath": "/features/face-value-reconciliation"
+      },
+      {
+        "id": "service-fee-calculation",
+        "title": "Service fee calculation",
+        "originalPath": "/features/service-fee-calculation"
+      },
+      {
+        "id": "refund-cancellation-control",
+        "title": "Refund cancellation control",
+        "originalPath": "/features/refund-cancellation-control"
+      },
+      {
+        "id": "chargeback-allocation",
+        "title": "Chargeback allocation",
+        "originalPath": "/features/chargeback-allocation"
+      },
+      {
+        "id": "tax-settlement",
+        "title": "Tax settlement",
+        "originalPath": "/features/tax-settlement"
+      },
+      {
+        "id": "cash-reconciliation",
+        "title": "Cash reconciliation",
+        "originalPath": "/features/cash-reconciliation"
+      },
+      {
+        "id": "budget-optimizer",
+        "title": "AI Budget Optimizer",
+        "originalPath": "/features/budget-optimizer"
+      },
+      {
+        "id": "revenue-forecast",
+        "title": "Revenue Forecast",
+        "originalPath": "/features/revenue-forecast"
+      },
+      {
+        "id": "dynamic-pricing-optimizer-adjusting-by-demand-time-to-event-comparables",
+        "title": "dynamic pricing optimizer adjusting by demand time to event comparables",
+        "originalPath": "/features/dynamic-pricing-optimizer-adjusting-by-demand-time-to-event-comparables"
+      },
+      {
+        "id": "revenue-prediction-forecasting-event-profitability",
+        "title": "revenue prediction forecasting event profitability",
+        "originalPath": "/features/revenue-prediction-forecasting-event-profitability"
+      },
+      {
+        "id": "marketing-campaign-recommender-suggesting-channels-budgets",
+        "title": "marketing campaign recommender suggesting channels budgets",
+        "originalPath": "/features/marketing-campaign-recommender-suggesting-channels-budgets"
+      },
+      {
+        "id": "ai-dynamic-pricing-based-on-demand",
+        "title": "ai dynamic pricing based on demand",
+        "originalPath": "/features/ai-dynamic-pricing-based-on-demand"
+      },
+      {
+        "id": "budget-optimize",
+        "title": "Budget Optimizer",
+        "originalPath": "/features/budget-optimize"
+      },
+      {
+        "id": "budget-risk",
+        "title": "Budget Risk",
+        "originalPath": "/features/budget-risk"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "ticketing-statement-audit",
+      "ai-booth-traffic-anomaly-detection"
+    ],
+    "ai": true,
+    "representativeId": "ticketing-statement-audit",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "ticketing-statement-audit",
+        "title": "Ticketing statement audit",
+        "originalPath": "/features/ticketing-statement-audit"
+      },
+      {
+        "id": "ai-booth-traffic-anomaly-detection",
+        "title": "ai booth traffic anomaly detection",
+        "originalPath": "/features/ai-booth-traffic-anomaly-detection"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "schedule-optimizer",
+      "scheduling-optimizer-minimizing-cannibalization-across-events"
+    ],
+    "ai": true,
+    "representativeId": "schedule-optimizer",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "schedule-optimizer",
+        "title": "AI Schedule Optimizer",
+        "originalPath": "/features/schedule-optimizer"
+      },
+      {
+        "id": "scheduling-optimizer-minimizing-cannibalization-across-events",
+        "title": "scheduling optimizer minimizing cannibalization across events",
+        "originalPath": "/features/scheduling-optimizer-minimizing-cannibalization-across-events"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "script-analysis",
+      "season-planning-optimizer-recommending-show-mix",
+      "script-recommendation-engine-based-on-available-cast-and",
+      "performance-outcome-prediction",
+      "roi-predictor",
+      "event-recommender",
+      "staff-optimizer",
+      "portfolio-optimizer",
+      "competitor-win-loss-analysis-tied-to-shared-events",
+      "seat-recommend",
+      "artist-audience-matcher-recommending-artists-by-target-audience",
+      "ai-artist-audience-matching",
+      "ai-demand-forecasting",
+      "vendor-match"
+    ],
+    "ai": true,
+    "representativeId": "script-analysis",
+    "description": "One assistant for 14 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "script-analysis",
+        "title": "Script analysis",
+        "originalPath": "/features/script-analysis"
+      },
+      {
+        "id": "season-planning-optimizer-recommending-show-mix",
+        "title": "season planning optimizer recommending show mix",
+        "originalPath": "/features/season-planning-optimizer-recommending-show-mix"
+      },
+      {
+        "id": "script-recommendation-engine-based-on-available-cast-and",
+        "title": "script recommendation engine based on available cast and",
+        "originalPath": "/features/script-recommendation-engine-based-on-available-cast-and"
+      },
+      {
+        "id": "performance-outcome-prediction",
+        "title": "performance outcome prediction",
+        "originalPath": "/features/performance-outcome-prediction"
+      },
+      {
+        "id": "roi-predictor",
+        "title": "AI ROI Predictor",
+        "originalPath": "/features/roi-predictor"
+      },
+      {
+        "id": "event-recommender",
+        "title": "AI Event Recommender",
+        "originalPath": "/features/event-recommender"
+      },
+      {
+        "id": "staff-optimizer",
+        "title": "AI Staff Optimizer",
+        "originalPath": "/features/staff-optimizer"
+      },
+      {
+        "id": "portfolio-optimizer",
+        "title": "Portfolio optimizer",
+        "originalPath": "/features/portfolio-optimizer"
+      },
+      {
+        "id": "competitor-win-loss-analysis-tied-to-shared-events",
+        "title": "competitor win loss analysis tied to shared events",
+        "originalPath": "/features/competitor-win-loss-analysis-tied-to-shared-events"
+      },
+      {
+        "id": "seat-recommend",
+        "title": "Seat Recommend",
+        "originalPath": "/features/seat-recommend"
+      },
+      {
+        "id": "artist-audience-matcher-recommending-artists-by-target-audience",
+        "title": "artist audience matcher recommending artists by target audience",
+        "originalPath": "/features/artist-audience-matcher-recommending-artists-by-target-audience"
+      },
+      {
+        "id": "ai-artist-audience-matching",
+        "title": "ai artist audience matching",
+        "originalPath": "/features/ai-artist-audience-matching"
+      },
+      {
+        "id": "ai-demand-forecasting",
+        "title": "ai demand forecasting",
+        "originalPath": "/features/ai-demand-forecasting"
+      },
+      {
+        "id": "vendor-match",
+        "title": "Vendor Matching",
+        "originalPath": "/features/vendor-match"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "performance-outcome-prediction-for-ticket-sales-and-review",
+      "fundraising-campaign-planning-with-donor-segment-targeting",
+      "email-marketing-automation",
+      "lead-scorer",
+      "marketing-copy",
+      "post-event-sentiment",
+      "attendee-sentiment-tracking-via-post-event-surveys-to-predict",
+      "ai-post-event-sentiment-analysis-of-attendees",
+      "ai-lead-quality-clustering"
+    ],
+    "ai": true,
+    "representativeId": "performance-outcome-prediction-for-ticket-sales-and-review",
+    "description": "One assistant for 9 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "performance-outcome-prediction-for-ticket-sales-and-review",
+        "title": "performance outcome prediction for ticket sales and review",
+        "originalPath": "/features/performance-outcome-prediction-for-ticket-sales-and-review"
+      },
+      {
+        "id": "fundraising-campaign-planning-with-donor-segment-targeting",
+        "title": "fundraising campaign planning with donor segment targeting",
+        "originalPath": "/features/fundraising-campaign-planning-with-donor-segment-targeting"
+      },
+      {
+        "id": "email-marketing-automation",
+        "title": "email marketing automation",
+        "originalPath": "/features/email-marketing-automation"
+      },
+      {
+        "id": "lead-scorer",
+        "title": "AI Lead Scorer",
+        "originalPath": "/features/lead-scorer"
+      },
+      {
+        "id": "marketing-copy",
+        "title": "AI Marketing Copy Generator",
+        "originalPath": "/features/marketing-copy"
+      },
+      {
+        "id": "post-event-sentiment",
+        "title": "Post event sentiment",
+        "originalPath": "/features/post-event-sentiment"
+      },
+      {
+        "id": "attendee-sentiment-tracking-via-post-event-surveys-to-predict",
+        "title": "attendee sentiment tracking via post event surveys to predict",
+        "originalPath": "/features/attendee-sentiment-tracking-via-post-event-surveys-to-predict"
+      },
+      {
+        "id": "ai-post-event-sentiment-analysis-of-attendees",
+        "title": "ai post event sentiment analysis of attendees",
+        "originalPath": "/features/ai-post-event-sentiment-analysis-of-attendees"
+      },
+      {
+        "id": "ai-lead-quality-clustering",
+        "title": "ai lead quality clustering",
+        "originalPath": "/features/ai-lead-quality-clustering"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "booth-advisor",
+      "menu-suggest",
+      "floral-suggest",
+      "music-suggest"
+    ],
+    "ai": true,
+    "representativeId": "booth-advisor",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "booth-advisor",
+        "title": "AI Booth Design Advisor",
+        "originalPath": "/features/booth-advisor"
+      },
+      {
+        "id": "menu-suggest",
+        "title": "Menu Designer",
+        "originalPath": "/features/menu-suggest"
+      },
+      {
+        "id": "floral-suggest",
+        "title": "Floral Designer",
+        "originalPath": "/features/floral-suggest"
+      },
+      {
+        "id": "music-suggest",
+        "title": "Music Curator",
+        "originalPath": "/features/music-suggest"
+      }
+    ]
+  }
+]
